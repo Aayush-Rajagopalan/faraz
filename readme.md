@@ -1,0 +1,4 @@
+# faraz
+
+discord bot
+
